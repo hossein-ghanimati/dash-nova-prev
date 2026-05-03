@@ -1,1 +1,1 @@
-<img alt="nova.png" data-hpc="true" src="https://github.com/hossein-ghanimati/nova-prev/blob/main/nova.png?raw=true" style="max-width: 100%;">
+<img alt="nova.png" data-hpc="true" src="https://github.com/hossein-ghanimati/dash-nova-prev/blob/main/dash.nova.png?raw=true" style="max-width: 100%;">
